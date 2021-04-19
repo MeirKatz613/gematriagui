@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gematriagui:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gematriagui_jar</output-path>
+    <root id="archive" name="gematriagui.jar">
+      <element id="module-output" name="gematriagui" />
+    </root>
+  </artifact>
+</component>

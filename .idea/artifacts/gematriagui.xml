@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="gematriagui">
+    <output-path>$PROJECT_DIR$/out/artifacts/gematriagui</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="" />
+        <option name="description" value="This is a simple program that allows you to add the gematria of hebrew words." />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="Gematria Gui" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="gematriagui.jar">
+        <element id="module-output" name="gematriagui" />
+      </element>
+    </root>
+  </artifact>
+</component>
