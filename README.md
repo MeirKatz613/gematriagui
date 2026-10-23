@@ -4,7 +4,7 @@ This is a simple program that adds up the gematria of the hebrew letters given b
 
 <h2>Installation</h2>
 
-You could either clone repository or you could click here for easy download instructions.  
+You could either clone repository or you could click [here](https://meirkatz613.github.io/Projects) for easy download instructions.  
 
 <h2>Screenshot</h2>
 <h3>When the program opens</h3>
